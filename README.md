@@ -142,6 +142,6 @@ Nenhum dado sensível ou informação corporativa foi utilizado no repositório 
 
 **Victor Rossano Couto do Amaral**
 
-- GitHub: https://github.com/VictorRossan0
-- LinkedIn: https://www.linkedin.com/in/victor-rossano-009b4556/
-- Portfólio: https://victorrossano-dev.netlify.app
+- GitHub: [https://github.com/VictorRossan0](https://github.com/VictorRossan0)
+- LinkedIn: [https://www.linkedin.com/in/victor-rossano-009b4556/](https://www.linkedin.com/in/victor-rossano-009b4556/)
+- Portfólio: [https://victorrossano-dev.netlify.app](https://victorrossano-dev.netlify.app)
